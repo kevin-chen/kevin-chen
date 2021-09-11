@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin-chen&show_icons=true&theme=dark&hide=stars&hide_title=true)](https://github.com/kevin-chen)
+## [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin-chen&show_icons=true&hide=stars&hide_title=true)](https://github.com/kevin-chen)
 
-## [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-chen&layout=compact&theme=dark&hide_title=true)](https://github.com/kevin-chen)
+## [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-chen&layout=compact&hide_title=true)](https://github.com/kevin-chen)
