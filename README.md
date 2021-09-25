@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ## [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin-chen&show_icons=true&hide=stars&hide_title=true)](https://github.com/kevin-chen)
 
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-chen&layout=compact&hide_title=true)](https://github.com/kevin-chen)
+### Demo
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
