@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ## [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin-chen&show_icons=true&hide=stars&hide_title=true)](https://github.com/kevin-chen)
 
 ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-chen)](https://github.com/kevin-chen)
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevin-chen)](https://github.com/kevin-chen)
