@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin-chen&show_icons=true)](https://github.com/kevin-chen)
 
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-chen)](https://github.com/kevin-chen)
+## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-chen?hide=jupyter%20notebook)](https://github.com/kevin-chen)
